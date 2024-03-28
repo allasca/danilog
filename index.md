@@ -1,4 +1,4 @@
-| No | Name | 1 |
+| No | Name | 28 |
 |-----|-----|-----|
 | 0 | YUDHA VIRMA ALLASCA | 00:25 - |
 | 1 | JOHAN ARI PITUTULU | 05:07 - |
