@@ -1,32 +1,32 @@
 | No | Name | Exp | Sat | Kamis25 |
 |-----|-----|-----|-----|-----|
-| 1 | YUDHA VIRMA ALLASCA | -1 | false | 00:18 - |
-| 2 | JOHAN ARI PITUTULU | 357 | false | 00:18 - |
-| 3 | WARIMAN | 357 | false | 00:18 - |
-| 4 | ARI SUPRIH BUDI KUNCORO | 357 | false | 00:18 - |
-| 5 | PITHUT GUNAWAN | 357 | false | 00:18 - |
-| 6 | EKO YUDISTIRO RONY ASHARI | 357 | false | 00:18 - |
-| 7 | DJETLI MARISHANNO LITAAY | 357 | false | 00:18 - |
+| 1 | YUDHA VIRMA ALLASCA | -1 | false | 00:18 17:09 |
+| 2 | JOHAN ARI PITUTULU | 356 | false | 00:18 17:09 |
+| 3 | WARIMAN | 356 | false | 00:18 17:09 |
+| 4 | ARI SUPRIH BUDI KUNCORO | 356 | false | 00:18 17:09 |
+| 5 | PITHUT GUNAWAN | 356 | false | 00:18 17:09 |
+| 6 | EKO YUDISTIRO RONY ASHARI | 356 | false | 00:18 17:09 |
+| 7 | DJETLI MARISHANNO LITAAY | 356 | false | 00:18 17:09 |
 | 8 | HINU PULUNG MULIAWAN | 367 | false | Exp |
-| 9 | DULKAMIT | 357 | true | 00:19 - |
-| 10 | MUKLISIN | 357 | false | 00:19 - |
-| 11 | SUNARDI | 357 | false | 00:19 - |
-| 12 | SUGENG RIYANTO | 357 | false | 00:19 - |
-| 13 | AHMAD ZAINUDDIN | 357 | true | 00:19 - |
-| 14 | IDA JATIYANA | 357 | false | 00:19 - |
-| 15 | MARGARETHA RISTIANI M. | 357 | false | 00:19 - |
-| 16 | KOKOK WAHYONO | 357 | false | 00:20 - |
-| 17 | SYELA RANSY TONAPA | 357 | false | 00:20 - |
+| 9 | DULKAMIT | 356 | true | 00:19 17:10 |
+| 10 | MUKLISIN | 356 | false | 00:19 17:10 |
+| 11 | SUNARDI | 356 | false | 00:19 17:10 |
+| 12 | SUGENG RIYANTO | 356 | false | 00:19 17:10 |
+| 13 | AHMAD ZAINUDDIN | 356 | true | 00:19 17:10 |
+| 14 | IDA JATIYANA | 356 | false | 00:19 17:10 |
+| 15 | MARGARETHA RISTIANI M. | 356 | false | 00:19 17:10 |
+| 16 | KOKOK WAHYONO | 356 | false | 00:20 17:10 |
+| 17 | SYELA RANSY TONAPA | 356 | false | 00:20 17:11 |
 | 18 | MAHFUT WAWAN PRASETYO | 367 | false | Exp |
-| 19 | KOKO ARDIANTO | 41 | false | 00:20 - |
-| 20 | RASMADI | 91 | false | 00:20 - |
-| 21 | SURADI | 357 | false | 00:20 - |
-| 22 | HARIS BUDIARTO | 357 | false | 00:20 - |
-| 23 | DENI SETIADI PRATAMA EKA PUTRA | 357 | false | 00:20 - |
-| 24 | MISBAKHUL MUNIR | 357 | false | 00:20 - |
-| 25 | SUDARSONO | 357 | false | 00:21 - |
-| 26 | WAHYU BUDIANTO | 357 | false | 00:21 - |
-| 27 | WIDASTAMA ANGGA PERMANA | 357 | false | 00:21 - |
-| 28 | HERU PURNOMO | 357 | false | 00:21 - |
-| 29 | BOWO SURYONO | 355 | true | 00:21 - |
-| 30 | IVAN CAHYO SUSANTO | 357 | false | 00:21 - |
+| 19 | KOKO ARDIANTO | 40 | false | 00:20 17:11 |
+| 20 | RASMADI | 90 | false | 00:20 17:11 |
+| 21 | SURADI | 356 | false | 00:20 17:11 |
+| 22 | HARIS BUDIARTO | 356 | false | 00:20 17:11 |
+| 23 | DENI SETIADI PRATAMA EKA PUTRA | 356 | false | 00:20 17:11 |
+| 24 | MISBAKHUL MUNIR | 356 | false | 00:20 17:11 |
+| 25 | SUDARSONO | 356 | false | 00:21 17:12 |
+| 26 | WAHYU BUDIANTO | 356 | false | 00:21 17:12 |
+| 27 | WIDASTAMA ANGGA PERMANA | 356 | false | 00:21 17:12 |
+| 28 | HERU PURNOMO | 356 | false | 00:21 17:12 |
+| 29 | BOWO SURYONO | 354 | true | 00:21 17:12 |
+| 30 | IVAN CAHYO SUSANTO | 356 | false | 00:21 17:12 |
