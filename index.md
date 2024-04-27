@@ -8,11 +8,11 @@
 | 6 | EKO YUDISTIRO RONY ASHARI | 356 | false | 00:18 17:09 | 05:14 17:21 | -- |
 | 7 | DJETLI MARISHANNO LITAAY | 356 | false | 00:18 17:09 | 05:14 17:21 | -- |
 | 8 | HINU PULUNG MULIAWAN | 367 | false | Exp | Exp | Exp |
-| 9 | DULKAMIT | 357 | true | 00:19 17:10 | 05:15 17:22 | 05:08 - |
+| 9 | DULKAMIT | 356 | true | 00:19 17:10 | 05:15 17:22 | 05:08 17:28 |
 | 10 | MUKLISIN | 356 | false | 00:19 17:10 | 05:15 17:22 | -- |
 | 11 | SUNARDI | 356 | false | 00:19 17:10 | 05:15 17:22 | -- |
 | 12 | SUGENG RIYANTO | 356 | false | 00:19 17:10 | 05:15 17:22 | -- |
-| 13 | AHMAD ZAINUDDIN | 357 | true | 00:19 17:10 | 05:15 17:22 | 05:08 - |
+| 13 | AHMAD ZAINUDDIN | 356 | true | 00:19 17:10 | 05:15 17:22 | 05:08 17:28 |
 | 14 | IDA JATIYANA | 356 | false | 00:19 17:10 | 05:15 17:22 | -- |
 | 15 | MARGARETHA RISTIANI M. | 356 | false | 00:19 17:10 | 05:15 17:22 | -- |
 | 16 | KOKOK WAHYONO | 356 | false | 00:20 17:10 | 05:15 17:22 | -- |
@@ -28,5 +28,5 @@
 | 26 | WAHYU BUDIANTO | 356 | false | 00:21 17:12 | 05:17 17:24 | -- |
 | 27 | WIDASTAMA ANGGA PERMANA | 356 | false | 00:21 17:12 | 05:17 17:24 | -- |
 | 28 | HERU PURNOMO | 356 | false | 00:21 17:12 | 05:17 17:24 | -- |
-| 29 | BOWO SURYONO | 355 | true | 00:21 17:12 | 05:17 17:24 | 05:08 - |
+| 29 | BOWO SURYONO | 354 | true | 00:21 17:12 | 05:17 17:24 | 05:08 17:28 |
 | 30 | IVAN CAHYO SUSANTO | 356 | false | 00:21 17:12 | 05:17 17:24 | -- |
