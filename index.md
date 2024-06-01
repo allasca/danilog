@@ -8,11 +8,11 @@
 | 6 | EKO YUDISTIRO RONY ASHARI | 357 | false | -- |
 | 7 | DJETLI MARISHANNO LITAAY | 357 | false | -- |
 | 8 | HINU PULUNG MULIAWAN | 0 | false | Exp |
-| 9 | DULKAMIT | 357 | true | 05:26 - |
+| 9 | DULKAMIT | 356 | true | 05:26 17:11 |
 | 10 | MUKLISIN | 357 | false | -- |
 | 11 | SUNARDI | 357 | false | -- |
 | 12 | SUGENG RIYANTO | 357 | false | -- |
-| 13 | AHMAD ZAINUDDIN | 357 | true | 05:26 - |
+| 13 | AHMAD ZAINUDDIN | 356 | true | 05:26 17:11 |
 | 14 | IDA JATIYANA | 357 | false | -- |
 | 15 | MARGARETHA RISTIANI M. | 357 | false | -- |
 | 16 | KOKOK WAHYONO | 357 | false | -- |
@@ -28,5 +28,5 @@
 | 26 | WAHYU BUDIANTO | 357 | false | -- |
 | 27 | WIDASTAMA ANGGA PERMANA | 357 | false | -- |
 | 28 | HERU PURNOMO | 357 | false | -- |
-| 29 | BOWO SURYONO | 355 | true | 05:26 - |
+| 29 | BOWO SURYONO | 354 | true | 05:26 17:11 |
 | 30 | IVAN CAHYO SUSANTO | 357 | false | -- |
