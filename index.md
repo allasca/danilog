@@ -1,33 +1,33 @@
 | No | Name | Exp | Sat | Kamis1 | Jumat2 |
 |-----|-----|-----|-----|-----|-----|
-| 1 | YUDHA VIRMA ALLASCA | -1 | false | 05:24 17:22 | 05:07 - |
-| 2 | JOHAN ARI PITUTULU | 357 | false | 05:24 17:22 | 05:07 - |
-| 3 | WARIMAN | 357 | false | 05:24 17:22 | 05:07 - |
-| 4 | ARI SUPRIH BUDI KUNCORO | 357 | false | 05:24 17:22 | 05:07 - |
-| 5 | PITHUT GUNAWAN | 357 | false | 05:24 17:22 | 05:07 - |
-| 6 | EKO YUDISTIRO RONY ASHARI | 357 | false | 05:24 17:22 | 05:07 - |
-| 7 | DJETLI MARISHANNO LITAAY | 357 | false | 05:24 17:22 | 05:07 - |
+| 1 | YUDHA VIRMA ALLASCA | -1 | false | 05:24 17:22 | 05:07 17:28 |
+| 2 | JOHAN ARI PITUTULU | 356 | false | 05:24 17:22 | 05:07 17:28 |
+| 3 | WARIMAN | 356 | false | 05:24 17:22 | 05:07 17:28 |
+| 4 | ARI SUPRIH BUDI KUNCORO | 356 | false | 05:24 17:22 | 05:07 17:28 |
+| 5 | PITHUT GUNAWAN | 356 | false | 05:24 17:22 | 05:07 17:28 |
+| 6 | EKO YUDISTIRO RONY ASHARI | 356 | false | 05:24 17:22 | 05:07 17:28 |
+| 7 | DJETLI MARISHANNO LITAAY | 356 | false | 05:24 17:22 | 05:07 17:28 |
 | 8 | HINU PULUNG MULIAWAN | 0 | false | Exp | Exp |
-| 9 | DULKAMIT | 357 | true | 05:25 17:23 | 05:08 - |
-| 10 | MUKLISIN | 357 | false | 05:25 17:23 | 05:08 - |
-| 11 | SUNARDI | 357 | false | 05:25 17:23 | 05:08 - |
-| 12 | SUGENG RIYANTO | 357 | false | 05:25 17:23 | 05:08 - |
-| 13 | AHMAD ZAINUDDIN | 357 | true | 05:25 17:23 | 05:08 - |
-| 14 | IDA JATIYANA | 357 | false | 05:25 17:23 | 05:08 - |
-| 15 | MARGARETHA RISTIANI M. | 357 | false | 05:25 17:23 | 05:08 - |
-| 16 | KOKOK WAHYONO | 357 | false | 05:25 17:23 | 05:08 - |
-| 17 | SYELA RANSY TONAPA | 357 | false | 05:26 17:24 | 05:09 - |
-| 18 | MAHFUT WAWAN PRASETYO | 357 | false | 05:26 17:24 | 05:09 - |
-| 19 | KOKO ARDIANTO | 41 | false | 05:26 17:24 | 05:09 - |
-| 20 | RASMADI | 91 | false | 05:26 17:24 | 05:09 - |
-| 21 | SURADI | 357 | false | 05:26 17:24 | 05:09 - |
-| 22 | HARIS BUDIARTO | 357 | false | 05:26 17:24 | 05:09 - |
-| 23 | DENI SETIADI PRATAMA EKA PUTRA | 357 | false | 05:26 17:24 | 05:09 - |
-| 24 | MISBAKHUL MUNIR | 357 | false | 05:26 17:24 | 05:09 - |
-| 25 | SUDARSONO | 357 | false | 05:27 17:25 | 05:10 - |
-| 26 | WAHYU BUDIANTO | 357 | false | 05:27 17:25 | 05:10 - |
-| 27 | WIDASTAMA ANGGA PERMANA | 357 | false | 05:27 17:25 | 05:10 - |
-| 28 | HERU PURNOMO | 357 | false | 05:27 17:25 | 05:10 - |
-| 29 | BOWO SURYONO | 355 | true | 05:27 17:25 | 05:10 - |
-| 30 | IVAN CAHYO SUSANTO | 357 | false | 05:27 17:25 | 05:10 - |
-| 31 | Hengki Iriawan | 357 | false | 05:27 17:25 | 05:10 - |
+| 9 | DULKAMIT | 356 | true | 05:25 17:23 | 05:08 17:29 |
+| 10 | MUKLISIN | 356 | false | 05:25 17:23 | 05:08 17:29 |
+| 11 | SUNARDI | 356 | false | 05:25 17:23 | 05:08 17:29 |
+| 12 | SUGENG RIYANTO | 356 | false | 05:25 17:23 | 05:08 17:29 |
+| 13 | AHMAD ZAINUDDIN | 356 | true | 05:25 17:23 | 05:08 17:29 |
+| 14 | IDA JATIYANA | 356 | false | 05:25 17:23 | 05:08 17:29 |
+| 15 | MARGARETHA RISTIANI M. | 356 | false | 05:25 17:23 | 05:08 17:29 |
+| 16 | KOKOK WAHYONO | 356 | false | 05:25 17:23 | 05:08 17:29 |
+| 17 | SYELA RANSY TONAPA | 356 | false | 05:26 17:24 | 05:09 17:30 |
+| 18 | MAHFUT WAWAN PRASETYO | 356 | false | 05:26 17:24 | 05:09 17:30 |
+| 19 | KOKO ARDIANTO | 40 | false | 05:26 17:24 | 05:09 17:30 |
+| 20 | RASMADI | 90 | false | 05:26 17:24 | 05:09 17:30 |
+| 21 | SURADI | 356 | false | 05:26 17:24 | 05:09 17:30 |
+| 22 | HARIS BUDIARTO | 356 | false | 05:26 17:24 | 05:09 17:30 |
+| 23 | DENI SETIADI PRATAMA EKA PUTRA | 356 | false | 05:26 17:24 | 05:09 17:30 |
+| 24 | MISBAKHUL MUNIR | 356 | false | 05:26 17:24 | 05:09 17:30 |
+| 25 | SUDARSONO | 356 | false | 05:27 17:25 | 05:10 17:31 |
+| 26 | WAHYU BUDIANTO | 356 | false | 05:27 17:25 | 05:10 17:31 |
+| 27 | WIDASTAMA ANGGA PERMANA | 356 | false | 05:27 17:25 | 05:10 17:31 |
+| 28 | HERU PURNOMO | 356 | false | 05:27 17:25 | 05:10 17:31 |
+| 29 | BOWO SURYONO | 354 | true | 05:27 17:25 | 05:10 17:31 |
+| 30 | IVAN CAHYO SUSANTO | 356 | false | 05:27 17:25 | 05:10 17:31 |
+| 31 | Hengki Iriawan | 356 | false | 05:27 17:25 | 05:10 17:31 |
