@@ -8,11 +8,11 @@
 | 6 | EKO YUDISTIRO RONY ASHARI | 0 | false | 05:13 19:28 | -- |
 | 7 | DJETLI MARISHANNO LITAAY | 0 | false | 05:13 19:28 | -- |
 | 8 | HINU PULUNG MULIAWAN | 0 | false | Exp | Exp |
-| 9 | DULKAMIT | 1 | true | 05:14 19:29 | 05:27 - |
+| 9 | DULKAMIT | 0 | true | 05:14 19:29 | 05:27 19:27 |
 | 10 | MUKLISIN | 0 | false | 05:14 19:29 | -- |
 | 11 | SUNARDI | 0 | false | 05:14 19:29 | -- |
 | 12 | SUGENG RIYANTO | 0 | false | 05:14 19:29 | -- |
-| 13 | AHMAD ZAINUDDIN | 1 | true | 05:14 19:29 | 05:27 - |
+| 13 | AHMAD ZAINUDDIN | 0 | true | 05:14 19:29 | 05:27 19:27 |
 | 14 | IDA JATIYANA | 0 | false | 05:14 19:29 | -- |
 | 15 | MARGARETHA RISTIANI M. | 0 | false | 05:14 19:29 | -- |
 | 16 | KOKOK WAHYONO | 0 | false | 05:14 19:30 | -- |
@@ -28,7 +28,7 @@
 | 26 | WAHYU BUDIANTO | 0 | false | 05:16 19:31 | -- |
 | 27 | WIDASTAMA ANGGA PERMANA | 0 | false | 05:16 19:31 | -- |
 | 28 | HERU PURNOMO | 0 | false | 05:16 19:31 | -- |
-| 29 | BOWO SURYONO | 1 | true | 05:16 19:31 | 05:27 - |
+| 29 | BOWO SURYONO | 0 | true | 05:16 19:31 | 05:27 19:27 |
 | 30 | IVAN CAHYO SUSANTO | 0 | false | 05:16 19:31 | -- |
 | 31 | Hengki Iriawan | 0 | false | 05:16 19:32 | -- |
 | 32 | CAHYAN SANJANG MAHENDRA | 0 | false | 05:17 19:32 | -- |
