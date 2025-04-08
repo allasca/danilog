@@ -1,40 +1,40 @@
-| No | Name | Exp | Sat | Selasa1 | Rabu2 | Kamis3 | Jumat4 | Sabtu5 | Senin7 |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1 | YUDHA VIRMA ALLASCA | -1 | false | 05:26 19:17 | 05:11 19:24 | 05:28 19:23 | 05:13 19:05 | -- | 05:03 19:16 |
-| 2 | JOHAN ARI PITUTULU | 0 | false | 05:26 19:17 | 05:11 19:24 | 05:28 19:23 | 05:13 19:05 | -- | 05:03 19:16 |
-| 3 | WARIMAN | 0 | false | 05:26 19:17 | 05:11 19:24 | 05:28 19:23 | 05:13 19:05 | -- | 05:03 19:16 |
-| 4 | ARI SUPRIH BUDI KUNCORO | 0 | false | 05:26 19:17 | 05:11 19:24 | 05:28 19:23 | 05:13 19:05 | -- | 05:03 19:16 |
-| 5 | PITHUT GUNAWAN | 0 | false | 05:26 19:17 | 05:11 19:24 | 05:28 19:23 | 05:13 19:05 | -- | 05:03 19:16 |
-| 6 | EKO YUDISTIRO RONY ASHARI | 0 | false | 05:26 19:17 | 05:11 19:24 | 05:28 19:23 | 05:13 19:05 | -- | 05:03 19:16 |
-| 7 | DJETLI MARISHANNO LITAAY | 0 | false | 05:26 19:17 | 05:11 19:24 | 05:28 19:23 | 05:13 19:05 | -- | 05:03 19:17 |
-| 8 | HINU PULUNG MULIAWAN | 0 | false | Exp | Exp | Exp | Exp | Exp | Exp |
-| 9 | DULKAMIT | 0 | true | 05:27 19:18 | 05:12 19:25 | 05:29 19:24 | 05:14 19:06 | 05:28 19:16 | 05:04 19:17 |
-| 10 | MUKLISIN | 0 | false | 05:27 19:18 | 05:12 19:25 | 05:29 19:24 | 05:14 19:06 | -- | 05:04 19:17 |
-| 11 | SUNARDI | 0 | false | 05:27 19:18 | 05:12 19:25 | 05:29 19:24 | 05:14 19:06 | -- | 05:04 19:17 |
-| 12 | SUGENG RIYANTO | 0 | false | 05:27 19:18 | 05:12 19:25 | 05:29 19:24 | 05:14 19:06 | -- | 05:04 19:17 |
-| 13 | AHMAD ZAINUDDIN | 0 | true | 05:27 19:18 | 05:12 19:25 | 05:29 19:24 | 05:14 19:06 | 05:28 19:16 | 05:04 19:17 |
-| 14 | IDA JATIYANA | 0 | false | 05:27 19:18 | 05:12 19:25 | 05:29 19:24 | 05:14 19:06 | -- | 05:04 19:17 |
-| 15 | MARGARETHA RISTIANI M. | 0 | false | 05:27 19:18 | 05:12 19:25 | 05:29 19:24 | 05:14 19:06 | -- | 05:04 19:18 |
-| 16 | KOKOK WAHYONO | 0 | false | 05:27 19:18 | 05:12 19:25 | 05:29 19:24 | 05:15 19:07 | -- | 05:04 19:18 |
-| 17 | SYELA RANSY TONAPA | 0 | false | 05:28 19:19 | 05:13 19:26 | 05:30 19:25 | 05:15 19:07 | -- | 05:05 19:18 |
-| 18 | MAHFUT WAWAN PRASETYO | 0 | false | 05:28 19:19 | 05:13 19:26 | 05:30 19:25 | 05:15 19:07 | -- | 05:05 19:18 |
-| 19 | KOKO ARDIANTO | 0 | false | 05:28 19:19 | 05:13 19:26 | 05:30 19:25 | 05:15 19:07 | -- | 05:05 19:18 |
-| 20 | RASMADI | 0 | false | 05:28 19:19 | 05:13 19:26 | 05:30 19:25 | 05:15 19:07 | -- | 05:05 19:18 |
-| 21 | SURADI | 0 | false | 05:28 19:19 | 05:13 19:26 | 05:30 19:25 | 05:15 19:07 | -- | 05:05 19:18 |
-| 22 | HARIS BUDIARTO | 0 | false | 05:28 19:19 | 05:13 19:26 | 05:30 19:25 | 05:15 19:07 | -- | 05:05 19:18 |
-| 23 | DENI SETIADI PRATAMA EKA PUTRA | 0 | false | 05:28 19:19 | 05:13 19:26 | 05:30 19:25 | 05:15 19:07 | -- | 05:05 19:19 |
-| 24 | MISBAKHUL MUNIR | 0 | false | 05:29 19:20 | 05:14 19:27 | 05:31 19:26 | 05:16 19:08 | -- | 05:06 19:19 |
-| 25 | SUDARSONO | 0 | false | 05:29 19:20 | 05:14 19:27 | 05:31 19:26 | 05:16 19:08 | -- | 05:06 19:19 |
-| 26 | WAHYU BUDIANTO | 0 | false | 05:29 19:20 | 05:14 19:27 | 05:31 19:26 | 05:16 19:08 | -- | 05:06 19:19 |
-| 27 | WIDASTAMA ANGGA PERMANA | 0 | false | 05:29 19:20 | 05:14 19:27 | 05:31 19:26 | 05:16 19:08 | -- | 05:06 19:19 |
-| 28 | HERU PURNOMO | 0 | false | 05:29 19:20 | 05:14 19:27 | 05:31 19:26 | 05:16 19:08 | -- | 05:06 19:19 |
-| 29 | BOWO SURYONO | 0 | true | 05:29 19:20 | 05:14 19:27 | 05:31 19:26 | 05:16 19:08 | 05:28 19:16 | 05:06 19:19 |
-| 30 | IVAN CAHYO SUSANTO | 0 | false | 05:29 19:20 | 05:14 19:27 | 05:31 19:27 | 05:16 19:08 | -- | 05:06 19:19 |
-| 31 | Hengki Iriawan | 0 | false | 05:29 19:20 | 05:14 19:27 | 05:31 19:27 | 05:17 19:09 | -- | 05:07 19:20 |
-| 32 | CAHYAN SANJANG MAHENDRA | 0 | false | 05:30 19:21 | 05:15 19:28 | 05:32 19:27 | 05:17 19:09 | -- | 05:07 19:20 |
-| 33 | VIKTOR MONTANA TAMPUBOLON | 0 | false | 05:30 19:21 | 05:15 19:28 | 05:32 19:27 | 05:17 19:09 | -- | 05:07 19:20 |
-| 34 | BIMA AL KARIM | 0 | false | 05:30 19:21 | 05:15 19:28 | 05:32 19:27 | 05:17 19:09 | -- | 05:07 19:20 |
-| 35 | GAGUK KISWANTO | 0 | true | 05:30 19:21 | 05:15 19:28 | 05:32 19:27 | 05:17 19:09 | 05:28 19:16 | 05:07 19:20 |
-| 36 | RUKUN SANTOSO | 0 | true | 05:30 19:21 | 05:15 19:28 | 05:32 19:27 | 05:17 19:09 | 05:28 19:16 | 05:07 19:20 |
-| 37 | ENNY HANDHAYANY Y.S | 0 | false | 05:30 19:21 | 05:15 19:28 | 05:32 19:28 | 05:17 19:09 | -- | 05:07 19:20 |
-| 38 | SUPIAN INDRA BUDIANTO | 0 | false | 05:30 19:21 | 05:15 19:28 | 05:32 19:28 | 05:17 19:09 | -- | 05:07 19:21 |
+| No | Name | Exp | Sat |
+|-----|-----|-----|-----|
+| 1 | YUDHA VIRMA ALLASCA | -1 | false |
+| 2 | JOHAN ARI PITUTULU | 1 | false |
+| 3 | WARIMAN | 1 | false |
+| 4 | ARI SUPRIH BUDI KUNCORO | 1 | false |
+| 5 | PITHUT GUNAWAN | 1 | false |
+| 6 | EKO YUDISTIRO RONY ASHARI | 1 | false |
+| 7 | DJETLI MARISHANNO LITAAY | 1 | false |
+| 8 | HINU PULUNG MULIAWAN | 0 | false |
+| 9 | DULKAMIT | 1 | true |
+| 10 | MUKLISIN | 1 | false |
+| 11 | SUNARDI | 1 | false |
+| 12 | SUGENG RIYANTO | 1 | false |
+| 13 | AHMAD ZAINUDDIN | 1 | true |
+| 14 | IDA JATIYANA | 1 | false |
+| 15 | MARGARETHA RISTIANI M. | 1 | false |
+| 16 | KOKOK WAHYONO | 1 | false |
+| 17 | SYELA RANSY TONAPA | 1 | false |
+| 18 | MAHFUT WAWAN PRASETYO | 1 | false |
+| 19 | KOKO ARDIANTO | 1 | false |
+| 20 | RASMADI | 1 | false |
+| 21 | SURADI | 1 | false |
+| 22 | HARIS BUDIARTO | 1 | false |
+| 23 | DENI SETIADI PRATAMA EKA PUTRA | 1 | false |
+| 24 | MISBAKHUL MUNIR | 1 | false |
+| 25 | SUDARSONO | 1 | false |
+| 26 | WAHYU BUDIANTO | 1 | false |
+| 27 | WIDASTAMA ANGGA PERMANA | 1 | false |
+| 28 | HERU PURNOMO | 1 | false |
+| 29 | BOWO SURYONO | 1 | true |
+| 30 | IVAN CAHYO SUSANTO | 1 | false |
+| 31 | Hengki Iriawan | 1 | false |
+| 32 | Cahyan | 1 | false |
+| 33 | Viktor | 1 | false |
+| 34 | bima alka | 1 | false |
+| 35 | gaguk | 1 | true |
+| 36 | ndansan | 1 | true |
+| 37 | bu enny | 1 | false |
+| 38 | supian | 1 | false |
