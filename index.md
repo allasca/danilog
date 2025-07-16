@@ -1,6 +1,6 @@
-| No | Name | Exp | Sat | Selasa15 | Rabu16 | 17 |
-|-----|-----|-----|-----|-----|-----|-----|
-| 1 | YUDHA VIRMA ALLASCA | -1 | false | 04:19 19:29 | 01:26 19:21 | error on login func |
+| No | Name | Exp | Sat | Selasa15 | Rabu16 | 17 | Kamis17 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1 | YUDHA VIRMA ALLASCA | -1 | false | 04:19 19:29 | 01:26 19:21 | error on login func | 03:14 - |
 | 2 | JOHAN ARI PITUTULU | 1 | false | 04:19 19:29 | 01:26 19:21 | 01:18 - |
 | 3 | WARIMAN | 1 | false | 04:19 19:29 | 01:26 19:21 | 01:18 - |
 | 4 | ARI SUPRIH BUDI KUNCORO | 1 | false | 04:19 19:29 | 01:26 19:21 | 01:18 - |
