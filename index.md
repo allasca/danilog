@@ -1,9 +1,9 @@
-| No | Name | Exp | Sat | Senin21 | 22 |
-|-----|-----|-----|-----|-----|-----|
-| 1 | YUDHA VIRMA ALLASCA | -1 | false | 01:53 19:24 | error on login func |
-| 2 | JOHAN ARI PITUTULU | 0 | false | 01:53 19:24 | error on login func |
-| 3 | WARIMAN | 0 | false | 01:53 19:24 | error on login func |
-| 4 | ARI SUPRIH BUDI KUNCORO | 0 | false | 01:16 19:24 | error on login func |
+| No | Name | Exp | Sat | Senin21 | 22 | Selasa22 |
+|-----|-----|-----|-----|-----|-----|-----|
+| 1 | YUDHA VIRMA ALLASCA | -1 | false | 01:53 19:24 | error on login func | 03:08 - |
+| 2 | JOHAN ARI PITUTULU | 1 | false | 01:53 19:24 | error on login func | 03:08 - |
+| 3 | WARIMAN | 1 | false | 01:53 19:24 | error on login func | 03:08 - |
+| 4 | ARI SUPRIH BUDI KUNCORO | 1 | false | 01:16 19:24 | error on login func | 03:08 - |
 | 5 | PITHUT GUNAWAN | 1 | false | 01:17 19:24 | 01:16 - |
 | 6 | EKO YUDISTIRO RONY ASHARI | 1 | false | 01:17 19:24 | 01:16 - |
 | 7 | KOEN ROHAYUDI | 1 | false | 01:17 19:24 | 01:16 - |
