@@ -36,6 +36,6 @@
 | 34 | BIMA AL KARIM | 1 | false | 01:21 19:28 | 01:20 19:28 | 01:22 - |
 | 35 | GAGUK KISWANTO | 1 | true | 01:21 19:28 | 01:21 19:29 | 01:22 - |
 | 36 | RUKUN SANTOSO | 1 | true | 01:21 19:29 | 01:21 19:30 | 01:22 - |
-| 37 | ENNY HANDHAYANY Y.S | 1 | false | 01:21 19:29 | 01:21 19:30 | 01:22 - |
+| 37 | ENNY HANDHAYANY Y.S | 1 | false | 01:21 19:29 | 01:21 19:30 | 01:22 04:55 |
 | 38 | SUPIAN INDRA BUDIANTO | 1 | false | 01:21 19:29 | 01:21 19:31 | 01:23 - |
 | 39 | ZANUAR SETIA BUDI | 1 | true | 01:21 19:29 | 01:21 19:31 | 01:23 - |
