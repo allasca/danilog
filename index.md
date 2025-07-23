@@ -15,10 +15,10 @@
 | 13 | AHMAD ZAINUDDIN | 1 | true | 01:18 19:25 | 01:17 19:14 | 01:19 19:28 | 01:08 - |
 | 14 | IDA JATIYANA | 1 | false | 01:18 19:25 | 01:17 19:14 | 01:19 19:28 | 01:09 - |
 | 15 | MARGARETHA RISTIANI M. | 1 | false | 01:18 19:26 | 01:18 19:15 | 01:19 19:28 | 01:09 - |
-| 16 | KOKOK WAHYONO | 0 | false | 01:18 19:26 | 01:18 19:16 | 01:19 19:29 | error on login func |
-| 17 | SYELA RANSY TONAPA | 0 | false | 01:18 19:26 | 01:18 19:17 | 01:19 19:30 | error on login func |
-| 18 | MAHFUT WAWAN PRASETYO | 1 | false | 01:18 19:26 | 01:18 19:18 | 01:19 - | error on login func | error on login func |
-| 19 | KOKO ARDIANTO | 0 | false | 01:19 19:26 | 01:18 19:19 | 01:20 19:31 | error on login func |
+| 16 | KOKOK WAHYONO | 1 | false | 01:18 19:26 | 01:18 19:16 | 01:19 19:29 | error on login func | 03:16 - |
+| 17 | SYELA RANSY TONAPA | 1 | false | 01:18 19:26 | 01:18 19:17 | 01:19 19:30 | error on login func | 03:16 - |
+| 18 | MAHFUT WAWAN PRASETYO | 1 | false | 01:18 19:26 | 01:18 19:18 | 01:19 - | error on login func | error on login func | 03:16 - |
+| 19 | KOKO ARDIANTO | 1 | false | 01:19 19:26 | 01:18 19:19 | 01:20 19:31 | error on login func | 03:16 - |
 | 20 | RASMADI | 1 | false | 01:19 19:26 | 01:18 19:19 | 01:20 19:32 | 01:17 - |
 | 21 | SURADI | 1 | false | 01:19 19:26 | 01:18 19:20 | 01:20 19:32 | 01:17 - |
 | 22 | HARIS BUDIARTO | 1 | false | 01:19 19:27 | 01:19 19:20 | 01:20 19:32 | 01:17 - |
