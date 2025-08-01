@@ -8,11 +8,11 @@
 | 6 | EKO YUDISTIRO RONY ASHARI | 0 | false | 01:09 19:09 | -- |
 | 7 | KOEN ROHAYUDI | 0 | false | 03:16 19:09 | -- |
 | 8 | IMRON ZAMANI | 0 | false | 03:17 19:10 | -- |
-| 9 | DULKAMIT | 0 | true | 03:17 19:10 | error on login func |
+| 9 | DULKAMIT | 1 | true | 03:17 19:10 | error on login func | 03:07 - |
 | 10 | MUKLISIN | 0 | false | 03:17 19:10 | -- |
 | 11 | SUNARDI | 0 | false | 03:17 19:11 | -- |
 | 12 | SUGENG RIYANTO | 0 | false | 03:17 19:11 | -- |
-| 13 | AHMAD ZAINUDDIN | 0 | true | 03:17 19:12 | error on login func |
+| 13 | AHMAD ZAINUDDIN | 1 | true | 03:17 19:12 | error on login func | 03:07 - |
 | 14 | IDA JATIYANA | 0 | false | 03:17 19:12 | -- |
 | 15 | MARGARETHA RISTIANI M. | 0 | false | 03:18 19:13 | -- |
 | 16 | KOKOK WAHYONO | 0 | false | 03:18 19:13 | -- |
