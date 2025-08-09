@@ -8,11 +8,11 @@
 | 6 | EKO YUDISTIRO RONY ASHARI | 0 | false | 01:01 19:00 | -- |
 | 7 | KOEN ROHAYUDI | 0 | false | 01:01 19:01 | -- |
 | 8 | IMRON ZAMANI | 0 | false | 01:01 19:01 | -- |
-| 9 | DULKAMIT | 1 | true | 01:01 19:01 | error on login func | 03:15 - |
+| 9 | DULKAMIT | 0 | true | 01:01 19:01 | error on login func | 03:15 19:20 |
 | 10 | MUKLISIN | 0 | false | 01:02 19:01 | -- |
 | 11 | SUNARDI | 0 | false | 01:02 19:01 | -- |
 | 12 | SUGENG RIYANTO | 0 | false | 01:02 19:01 | -- |
-| 13 | AHMAD ZAINUDDIN | 1 | true | 01:02 19:01 | error on login func | 03:15 - |
+| 13 | AHMAD ZAINUDDIN | 0 | true | 01:02 19:01 | error on login func | 03:15 19:20 |
 | 14 | IDA JATIYANA | 0 | false | 01:03 19:02 | -- |
 | 15 | MARGARETHA RISTIANI M. | 1 | false | 01:03 17:59 | -- |
 | 16 | KOKOK WAHYONO | 0 | false | 01:03 19:02 | -- |
@@ -28,15 +28,15 @@
 | 26 | WAHYU BUDIANTO | 0 | false | 01:05 19:03 | -- |
 | 27 | WIDASTAMA ANGGA PERMANA | 0 | false | 01:06 19:03 | -- |
 | 28 | HERU PURNOMO | 0 | false | 01:06 19:04 | -- |
-| 29 | BOWO SURYONO | 1 | true | 01:06 19:04 | error on login func | 03:15 - |
+| 29 | BOWO SURYONO | 0 | true | 01:06 19:04 | error on login func | 03:15 19:20 |
 | 30 | IVAN CAHYO SUSANTO | 0 | false | 01:06 19:04 | -- |
 | 31 | Hengki Iriawan | 0 | false | 01:06 19:04 | -- |
 | 32 | CAHYAN SANJANG MAHENDRA | 0 | false | 01:07 19:04 | -- |
 | 33 | VIKTOR MONTANA TAMPUBOLON | 0 | false | 01:07 19:04 | -- |
 | 34 | BIMA AL KARIM | 0 | false | 01:07 19:04 | -- |
-| 35 | GAGUK KISWANTO | 1 | true | 01:07 19:05 | error on login func | 03:15 - |
-| 36 | RUKUN SANTOSO | 1 | true | 01:08 19:05 | error on login func | 03:15 - |
+| 35 | GAGUK KISWANTO | 0 | true | 01:07 19:05 | error on login func | 03:15 19:20 |
+| 36 | RUKUN SANTOSO | 0 | true | 01:08 19:05 | error on login func | 03:15 19:20 |
 | 37 | ENNY HANDHAYANY Y.S | 0 | false | 01:08 19:05 | -- |
 | 38 | SUPIAN INDRA BUDIANTO | 0 | false | 01:08 19:05 | -- |
-| 39 | ZANUAR SETIA BUDI | 1 | true | 01:08 19:05 | error on login func | 03:16 - |
+| 39 | ZANUAR SETIA BUDI | 0 | true | 01:08 19:05 | error on login func | 03:16 19:20 |
 | 40 | SUGIYANTO | 0 | false | 01:08 19:05 | -- |
