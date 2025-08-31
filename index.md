@@ -1,6 +1,6 @@
-| No | Name | Exp | Sat | 1 |
+| No | Name | Exp | Sat | Senin1 |
 |-----|-----|-----|-----|-----|
-| 1 | YUDHA VIRMA ALLASCA | -1 | false | error on login func |
+| 1 | YUDHA VIRMA ALLASCA | -1 | false | 03:25 - |
 | 2 | JOHAN ARI PITUTULU | 1 | false | 01:20 - |
 | 3 | WARIMAN | 1 | false | 01:21 - |
 | 4 | ARI SUPRIH BUDI KUNCORO | 1 | false | 01:21 - |
