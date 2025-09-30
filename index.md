@@ -6,11 +6,11 @@
 | 4 | ARI SUPRIH BUDI KUNCORO | 1 | false | 01:13 - |
 | 5 | PITHUT GUNAWAN | 1 | false | 01:13 - |
 | 6 | EKO YUDISTIRO RONY ASHARI | 1 | false | 01:13 - |
-| 7 | pak kun waka | 1 | false | error on login func |
-| 8 | imron ktu | 1 | false | error on login func |
-| 9 | DULKAMIT | 1 | true | error on login func |
-| 10 | MUKLISIN | 1 | false | error on login func |
-| 11 | SUNARDI | 1 | false | error on login func |
+| 7 | KOEN ROHAYUDI | 1 | false | 03:18 - |
+| 8 | IMRON ZAMANI | 1 | false | 03:19 - |
+| 9 | DULKAMIT | 1 | true | 03:19 - |
+| 10 | MUKLISIN | 1 | false | 03:19 - |
+| 11 | SUNARDI | 1 | false | 03:19 - |
 | 12 | SUGENG RIYANTO | 1 | false | 01:22 - |
 | 13 | AHMAD ZAINUDDIN | 1 | true | 01:22 - |
 | 14 | IDA JATIYANA | 1 | false | 01:23 - |
