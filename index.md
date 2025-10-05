@@ -1,9 +1,9 @@
-| No | Name | Exp | Sat | Rabu1 | Kamis2 | Jumat3 | Sabtu4 | 6 |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1 | YUDHA VIRMA ALLASCA | -1 | false | 01:13 19:15 | 01:07 19:24 | 01:26 19:04 | -- | error on login func |
-| 2 | JOHAN ARI PITUTULU | 0 | false | 01:13 19:15 | 01:07 19:24 | 01:26 19:04 | -- | error on login func |
-| 3 | WARIMAN | 0 | false | 01:13 19:15 | 01:07 19:24 | 01:26 19:04 | -- | error on login func |
-| 4 | ARI SUPRIH BUDI KUNCORO | 0 | false | 01:13 19:15 | 01:07 19:24 | 01:26 19:04 | -- | error on login func |
+| No | Name | Exp | Sat | Rabu1 | Kamis2 | Jumat3 | Sabtu4 | 6 | Senin6 |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1 | YUDHA VIRMA ALLASCA | -1 | false | 01:13 19:15 | 01:07 19:24 | 01:26 19:04 | -- | error on login func | 03:14 - |
+| 2 | JOHAN ARI PITUTULU | 1 | false | 01:13 19:15 | 01:07 19:24 | 01:26 19:04 | -- | error on login func | 03:14 - |
+| 3 | WARIMAN | 1 | false | 01:13 19:15 | 01:07 19:24 | 01:26 19:04 | -- | error on login func | 03:14 - |
+| 4 | ARI SUPRIH BUDI KUNCORO | 1 | false | 01:13 19:15 | 01:07 19:24 | 01:26 19:04 | -- | error on login func | 03:14 - |
 | 5 | PITHUT GUNAWAN | 1 | false | 01:13 19:15 | 01:07 19:24 | 01:26 19:04 | -- | 01:20 - |
 | 6 | EKO YUDISTIRO RONY ASHARI | 1 | false | 01:13 19:15 | 01:07 19:24 | 01:26 19:04 | -- | 01:21 - |
 | 7 | KOEN ROHAYUDI | 1 | false | 03:18 19:16 | 01:07 19:25 | 01:26 19:05 | -- | 01:21 - |
