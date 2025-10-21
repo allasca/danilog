@@ -1,43 +1,43 @@
-| No | Name | Exp | Sat |
-|-----|-----|-----|-----|
-| 1 | YUDHA VIRMA ALLASCA | -1 | false |
-| 2 | JOHAN ARI PITUTULU | 1 | false |
-| 3 | WARIMAN | 1 | false |
-| 4 | ARI SUPRIH BUDI KUNCORO | 1 | false |
-| 5 | PITHUT GUNAWAN | 1 | false |
-| 6 | EKO YUDISTIRO RONY ASHARI | 1 | false |
-| 7 | pak kun waka | 1 | false |
-| 8 | imron ktu | 1 | false |
-| 9 | DULKAMIT | 1 | true |
-| 10 | MUKLISIN | 1 | false |
-| 11 | SUNARDI | 1 | false |
-| 12 | SUGENG RIYANTO | 1 | false |
-| 13 | AHMAD ZAINUDDIN | 1 | true |
-| 14 | IDA JATIYANA | 1 | false |
-| 15 | MARGARETHA RISTIANI M. | 1 | false |
-| 16 | KOKOK WAHYONO | 1 | false |
-| 17 | SYELA RANSY TONAPA | 1 | false |
-| 18 | MAHFUT WAWAN PRASETYO | 1 | false |
-| 19 | KOKO ARDIANTO | 1 | false |
-| 20 | RASMADI | 1 | false |
-| 21 | SURADI | 1 | false |
-| 22 | HARIS BUDIARTO | 1 | false |
-| 23 | DENI SETIADI PRATAMA EKA PUTRA | 1 | false |
-| 24 | MISBAKHUL MUNIR | 1 | false |
-| 25 | SUDARSONO | 1 | false |
-| 26 | WAHYU BUDIANTO | 1 | false |
-| 27 | WIDASTAMA ANGGA PERMANA | 1 | false |
-| 28 | HERU PURNOMO | 1 | false |
-| 29 | BOWO SURYONO | 1 | true |
-| 30 | IVAN CAHYO SUSANTO | 1 | false |
-| 31 | Hengki Iriawan | 1 | false |
-| 32 | Cahyan | 1 | false |
-| 33 | Viktor | 1 | false |
-| 34 | bima alka | 1 | false |
-| 35 | gaguk | 1 | true |
-| 36 | ndansan | 1 | true |
-| 37 | bu enny | 1 | false |
-| 38 | supian | 1 | false |
-| 39 | yanuar | 1 | true |
-| 40 | mas giyanto mdn | 1 | false |
-| 41 | yudhi nganjuk | 1 | false |
+| No | Name | Exp | Sat | Selasa21 |
+|-----|-----|-----|-----|-----|
+| 1 | YUDHA VIRMA ALLASCA | -1 | false | 03:24 19:03 |
+| 2 | JOHAN ARI PITUTULU | 0 | false | 03:24 19:03 |
+| 3 | WARIMAN | 0 | false | 01:22 19:03 |
+| 4 | ARI SUPRIH BUDI KUNCORO | 0 | false | 01:22 19:03 |
+| 5 | PITHUT GUNAWAN | 0 | false | 01:22 19:03 |
+| 6 | EKO YUDISTIRO RONY ASHARI | 0 | false | 01:22 19:03 |
+| 7 | KOEN ROHAYUDI | 0 | false | 01:22 19:04 |
+| 8 | IMRON ZAMANI | 0 | false | 01:22 19:04 |
+| 9 | DULKAMIT | 0 | true | 01:23 19:04 |
+| 10 | MUKLISIN | 0 | false | 01:23 19:04 |
+| 11 | SUNARDI | 0 | false | 01:23 19:04 |
+| 12 | SUGENG RIYANTO | 0 | false | 01:23 19:04 |
+| 13 | AHMAD ZAINUDDIN | 0 | true | 01:23 19:05 |
+| 14 | IDA JATIYANA | 0 | false | 01:23 19:05 |
+| 15 | MARGARETHA RISTIANI M. | 0 | false | 01:23 19:05 |
+| 16 | KOKOK WAHYONO | 0 | false | 01:24 19:05 |
+| 17 | SYELA RANSY TONAPA | 0 | false | 01:24 19:05 |
+| 18 | MAHFUT WAWAN PRASETYO | 0 | false | 01:24 19:05 |
+| 19 | KOKO ARDIANTO | 0 | false | 01:24 19:06 |
+| 20 | RASMADI | 0 | false | 01:24 19:06 |
+| 21 | SURADI | 0 | false | 01:24 19:06 |
+| 22 | HARIS BUDIARTO | 0 | false | 01:24 19:06 |
+| 23 | DENI SETIADI PRATAMA EKA PUTRA | 0 | false | 01:25 19:06 |
+| 24 | MISBAKHUL MUNIR | 0 | false | 01:25 19:06 |
+| 25 | SUDARSONO | 0 | false | 01:25 19:07 |
+| 26 | WAHYU BUDIANTO | 0 | false | 01:25 19:07 |
+| 27 | WIDASTAMA ANGGA PERMANA | 0 | false | 01:25 19:07 |
+| 28 | HERU PURNOMO | 0 | false | 01:25 19:07 |
+| 29 | BOWO SURYONO | 0 | true | 01:25 19:07 |
+| 30 | IVAN CAHYO SUSANTO | 0 | false | 01:26 19:07 |
+| 31 | Hengki Iriawan | 0 | false | 01:26 19:08 |
+| 32 | CAHYAN SANJANG MAHENDRA | 0 | false | 01:26 19:08 |
+| 33 | VIKTOR MONTANA TAMPUBOLON | 0 | false | 01:26 19:08 |
+| 34 | BIMA AL KARIM | 0 | false | 01:26 19:08 |
+| 35 | GAGUK KISWANTO | 0 | true | 01:26 19:08 |
+| 36 | RUKUN SANTOSO | 0 | true | 01:26 19:08 |
+| 37 | ENNY HANDHAYANY Y.S | 0 | false | 01:27 19:09 |
+| 38 | SUPIAN INDRA BUDIANTO | 0 | false | 01:27 19:09 |
+| 39 | ZANUAR SETIA BUDI | 0 | true | 01:27 19:09 |
+| 40 | SUGIYANTO | 0 | false | 01:27 19:09 |
+| 41 | YUDIONO | 0 | false | 01:27 19:09 |
