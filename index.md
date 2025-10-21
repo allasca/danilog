@@ -40,4 +40,4 @@
 | 38 | SUPIAN INDRA BUDIANTO | 1 | false | 01:27 19:09 | 01:13 - |
 | 39 | ZANUAR SETIA BUDI | 1 | true | 01:27 19:09 | 01:13 - |
 | 40 | SUGIYANTO | 1 | false | 01:27 19:09 | 01:13 - |
-| 41 | YUDIONO | 0 | false | 01:27 19:09 | error on login func |
+| 41 | YUDIONO | 1 | false | 01:27 19:09 | error on login func | 03:32 - |
