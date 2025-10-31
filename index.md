@@ -8,7 +8,7 @@
 | 6 | EKO YUDISTIRO RONY ASHARI | 1 | false | -- |
 | 7 | pak kun waka | 1 | false | -- |
 | 8 | imron ktu | 1 | false | -- |
-| 9 | DULKAMIT | 1 | true | error on login func |
+| 9 | DULKAMIT | 1 | true | 03:00 - |
 | 10 | MUKLISIN | 1 | false | -- |
 | 11 | SUNARDI | 1 | false | -- |
 | 12 | SUGENG RIYANTO | 1 | false | -- |
