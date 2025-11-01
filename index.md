@@ -8,11 +8,11 @@
 | 6 | EKO YUDISTIRO RONY ASHARI | 1 | false | -- |
 | 7 | pak kun waka | 1 | false | -- |
 | 8 | imron ktu | 1 | false | -- |
-| 9 | DULKAMIT | 1 | true | 03:00 - |
+| 9 | DULKAMIT | 0 | true | 03:00 19:20 |
 | 10 | MUKLISIN | 1 | false | -- |
 | 11 | SUNARDI | 1 | false | -- |
 | 12 | SUGENG RIYANTO | 1 | false | -- |
-| 13 | AHMAD ZAINUDDIN | 1 | true | 01:24 - |
+| 13 | AHMAD ZAINUDDIN | 0 | true | 01:24 19:20 |
 | 14 | IDA JATIYANA | 1 | false | -- |
 | 15 | MARGARETHA RISTIANI M. | 1 | false | -- |
 | 16 | KOKOK WAHYONO | 1 | false | -- |
@@ -28,16 +28,16 @@
 | 26 | WAHYU BUDIANTO | 1 | false | -- |
 | 27 | WIDASTAMA ANGGA PERMANA | 1 | false | -- |
 | 28 | HERU PURNOMO | 1 | false | -- |
-| 29 | BOWO SURYONO | 1 | true | 01:24 - |
+| 29 | BOWO SURYONO | 0 | true | 01:24 19:20 |
 | 30 | IVAN CAHYO SUSANTO | 1 | false | -- |
 | 31 | Hengki Iriawan | 1 | false | -- |
 | 32 | Cahyan | 1 | false | -- |
 | 33 | Viktor | 1 | false | -- |
 | 34 | bima alka | 1 | false | -- |
-| 35 | GAGUK KISWANTO | 1 | true | 01:24 - |
-| 36 | RUKUN SANTOSO | 1 | true | 01:24 - |
+| 35 | GAGUK KISWANTO | 0 | true | 01:24 19:20 |
+| 36 | RUKUN SANTOSO | 0 | true | 01:24 19:20 |
 | 37 | bu enny | 1 | false | -- |
 | 38 | supian | 1 | false | -- |
-| 39 | ZANUAR SETIA BUDI | 1 | true | 01:24 - |
+| 39 | ZANUAR SETIA BUDI | 0 | true | 01:24 19:20 |
 | 40 | mas giyanto mdn | 1 | false | -- |
 | 41 | yudhi nganjuk | 1 | false | -- |
