@@ -1,8 +1,8 @@
-| No | Name | Exp | Sat | Sabtu1 | 3 |
-|-----|-----|-----|-----|-----|-----|
-| 1 | YUDHA VIRMA ALLASCA | -1 | false | -- | error on login func |
-| 2 | JOHAN ARI PITUTULU | 1 | false | -- | error on login func |
-| 3 | WARIMAN | 1 | false | -- | error on login func |
+| No | Name | Exp | Sat | Sabtu1 | 3 | Senin3 |
+|-----|-----|-----|-----|-----|-----|-----|
+| 1 | YUDHA VIRMA ALLASCA | -1 | false | -- | error on login func | 02:11 - |
+| 2 | JOHAN ARI PITUTULU | 1 | false | -- | error on login func | 03:28 - |
+| 3 | WARIMAN | 1 | false | -- | error on login func | 03:28 - |
 | 4 | ARI SUPRIH BUDI KUNCORO | 1 | false | -- | 01:22 - |
 | 5 | PITHUT GUNAWAN | 1 | false | -- | 01:23 - |
 | 6 | EKO YUDISTIRO RONY ASHARI | 1 | false | -- | 01:23 - |
