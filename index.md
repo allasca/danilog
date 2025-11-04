@@ -1,43 +1,293 @@
-| No | Name | Exp | Sat | Sabtu1 | 3 | Senin3 | 4 | Selasa4 | Rabu5 |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1 | YUDHA VIRMA ALLASCA | -1 | false | -- | error on login func | 02:11 19:25 | error on login func | 03:08 19:03 | 01:28 - |
-| 2 | JOHAN ARI PITUTULU | 1 | false | -- | error on login func | 03:28 19:25 | error on login func | 03:08 19:03 | 01:28 - |
-| 3 | WARIMAN | 1 | false | -- | error on login func | 03:28 19:25 | error on login func | 03:08 19:03 | 01:28 - |
-| 4 | ARI SUPRIH BUDI KUNCORO | 1 | false | -- | 01:22 19:25 | error on login func | 03:08 19:03 | 01:28 - |
-| 5 | PITHUT GUNAWAN | 1 | false | -- | 01:23 19:25 | 01:23 19:03 | 01:28 - |
-| 6 | EKO YUDISTIRO RONY ASHARI | 1 | false | -- | 01:23 19:25 | 01:23 19:03 | 01:28 - |
-| 7 | KOEN ROHAYUDI | 1 | false | -- | 01:23 19:26 | 01:23 19:03 | 01:29 - |
-| 8 | IMRON ZAMANI | 1 | false | -- | 01:23 19:26 | 01:23 19:04 | 01:29 - |
-| 9 | DULKAMIT | 1 | true | 03:00 19:20 | 01:23 19:26 | 01:23 19:04 | 01:29 - |
-| 10 | MUKLISIN | 1 | false | -- | 01:23 19:26 | 01:23 19:04 | 01:29 - |
-| 11 | SUNARDI | 1 | false | -- | 01:23 19:26 | 01:24 19:04 | 01:29 - |
-| 12 | SUGENG RIYANTO | 1 | false | -- | 01:24 19:26 | 01:24 19:04 | 01:29 - |
-| 13 | AHMAD ZAINUDDIN | 1 | true | 01:24 19:20 | 01:24 19:26 | 01:24 19:04 | 01:29 - |
-| 14 | IDA JATIYANA | 1 | false | -- | 01:24 19:26 | 01:24 19:04 | 01:29 - |
-| 15 | MARGARETHA RISTIANI M. | 1 | false | -- | 01:24 19:27 | 01:24 19:05 | 01:30 - |
-| 16 | KOKOK WAHYONO | 1 | false | -- | 01:24 19:27 | 01:24 19:05 | 01:30 - |
-| 17 | SYELA RANSY TONAPA | 1 | false | -- | 01:24 19:27 | 01:24 19:05 | 01:30 - |
-| 18 | MAHFUT WAWAN PRASETYO | 1 | false | -- | 01:24 19:27 | 01:25 19:05 | 01:30 - |
-| 19 | KOKO ARDIANTO | 1 | false | -- | 01:25 19:27 | 01:25 19:05 | 01:30 - |
-| 20 | RASMADI | 1 | false | -- | 01:25 19:27 | 01:25 19:05 | 01:30 - |
-| 21 | SURADI | 1 | false | -- | 01:25 19:27 | 01:25 19:05 | 01:30 - |
-| 22 | HARIS BUDIARTO | 1 | false | -- | 01:25 19:28 | 01:25 19:05 | 01:31 - |
-| 23 | DENI SETIADI PRATAMA EKA PUTRA | 1 | false | -- | 01:25 19:28 | 01:25 19:06 | 01:31 - |
-| 24 | MISBAKHUL MUNIR | 1 | false | -- | 01:25 19:28 | 01:25 19:06 | 01:31 - |
-| 25 | SUDARSONO | 1 | false | -- | 01:25 19:28 | 01:26 19:06 | 01:31 - |
-| 26 | WAHYU BUDIANTO | 1 | false | -- | 01:26 19:28 | 01:26 19:06 | 01:31 - |
-| 27 | WIDASTAMA ANGGA PERMANA | 1 | false | -- | 01:26 19:28 | 01:26 19:06 | 01:31 - |
-| 28 | HERU PURNOMO | 1 | false | -- | 01:26 19:28 | 01:26 19:06 | 01:31 - |
-| 29 | BOWO SURYONO | 1 | true | 01:24 19:20 | 01:26 19:29 | 01:26 19:06 | 01:32 - |
-| 30 | IVAN CAHYO SUSANTO | 1 | false | -- | 01:26 19:29 | 01:26 19:07 | 01:32 - |
-| 31 | Hengki Iriawan | 1 | false | -- | 01:26 19:29 | 01:26 19:07 | 01:32 - |
-| 32 | CAHYAN SANJANG MAHENDRA | 1 | false | -- | 01:26 19:29 | 01:26 19:07 | 01:32 - |
-| 33 | VIKTOR MONTANA TAMPUBOLON | 1 | false | -- | 01:27 19:29 | 01:27 19:07 | 01:32 - |
-| 34 | BIMA AL KARIM | 1 | false | -- | 01:27 19:29 | 01:27 19:07 | 01:32 - |
-| 35 | GAGUK KISWANTO | 1 | true | 01:24 19:20 | 01:27 19:29 | 01:27 19:07 | 01:32 - |
-| 36 | RUKUN SANTOSO | 1 | true | 01:24 19:20 | 01:27 19:29 | 01:27 19:07 | 01:33 - |
-| 37 | ENNY HANDHAYANY Y.S | 1 | false | -- | 01:27 19:30 | 01:27 19:07 | 01:33 - |
-| 38 | SUPIAN INDRA BUDIANTO | 1 | false | -- | 01:27 19:30 | 01:27 19:08 | 01:33 - |
-| 39 | ZANUAR SETIA BUDI | 1 | true | 01:24 19:20 | 01:27 19:30 | 01:27 19:08 | 01:33 - |
-| 40 | SUGIYANTO | 1 | false | -- | 01:27 19:30 | 01:28 17:11 | 01:33 - |
-| 41 | YUDIONO | 1 | false | -- | 01:28 19:30 | 01:28 19:08 | 01:33 - |
+# Log Presensi Dani
+
+```json
+[
+  {
+    "No": 1,
+    "Name": "YUDHA VIRMA ALLASCA",
+    "Exp": -1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 2,
+    "Name": "JOHAN ARI PITUTULU",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 3,
+    "Name": "WARIMAN",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 4,
+    "Name": "ARI SUPRIH BUDI KUNCORO",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 5,
+    "Name": "PITHUT GUNAWAN",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 6,
+    "Name": "EKO YUDISTIRO RONY ASHARI",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 7,
+    "Name": "pak kun waka",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 8,
+    "Name": "imron ktu",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 9,
+    "Name": "DULKAMIT",
+    "Exp": 1,
+    "Sat": true,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 10,
+    "Name": "MUKLISIN",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 11,
+    "Name": "SUNARDI",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 12,
+    "Name": "SUGENG RIYANTO",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 13,
+    "Name": "AHMAD ZAINUDDIN",
+    "Exp": 1,
+    "Sat": true,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 14,
+    "Name": "IDA JATIYANA",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 15,
+    "Name": "MARGARETHA RISTIANI M.",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 16,
+    "Name": "KOKOK WAHYONO",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 17,
+    "Name": "SYELA RANSY TONAPA",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 18,
+    "Name": "MAHFUT WAWAN PRASETYO",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 19,
+    "Name": "KOKO ARDIANTO",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 20,
+    "Name": "RASMADI",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 21,
+    "Name": "SURADI",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 22,
+    "Name": "HARIS BUDIARTO",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 23,
+    "Name": "DENI SETIADI PRATAMA EKA PUTRA",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 24,
+    "Name": "MISBAKHUL MUNIR",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 25,
+    "Name": "SUDARSONO",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 26,
+    "Name": "WAHYU BUDIANTO",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 27,
+    "Name": "WIDASTAMA ANGGA PERMANA",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 28,
+    "Name": "HERU PURNOMO",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 29,
+    "Name": "BOWO SURYONO",
+    "Exp": 1,
+    "Sat": true,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 30,
+    "Name": "IVAN CAHYO SUSANTO",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 31,
+    "Name": "Hengki Iriawan",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 32,
+    "Name": "Cahyan",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 33,
+    "Name": "Viktor",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 34,
+    "Name": "bima alka",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 35,
+    "Name": "gaguk",
+    "Exp": 1,
+    "Sat": true,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 36,
+    "Name": "ndansan",
+    "Exp": 1,
+    "Sat": true,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 37,
+    "Name": "bu enny",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 38,
+    "Name": "supian",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 39,
+    "Name": "yanuar",
+    "Exp": 1,
+    "Sat": true,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 40,
+    "Name": "mas giyanto mdn",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  },
+  {
+    "No": 41,
+    "Name": "yudhi nganjuk",
+    "Exp": 1,
+    "Sat": false,
+    "Rabu5": "Gagal mendapatkan token atau recaptcha dari halaman login."
+  }
+]
+```
