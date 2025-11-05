@@ -13,7 +13,7 @@
 | 11 | SUNARDI | 1 | false | 01:29 - |
 | 12 | SUGENG RIYANTO | 1 | false | 01:29 - |
 | 13 | AHMAD ZAINUDDIN | 1 | true | 01:29 - |
-| 14 | IDA JATIYANA | 1 | false | 01:29 - |
+| 14 | IDA JATIYANA | 1 | false | 01:29 18:03 |
 | 15 | MARGARETHA RISTIANI M. | 1 | false | 01:30 - |
 | 16 | KOKOK WAHYONO | 1 | false | 01:30 - |
 | 17 | SYELA RANSY TONAPA | 1 | false | 01:30 - |
