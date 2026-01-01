@@ -27,10 +27,10 @@
 | SUDARSONO | 1 | false |
 | WAHYU BUDIANTO | 1 | false |
 | WIDASTAMA ANGGA PERMANA | 1 | false |
-| HERU PURNOMO | 1 | false |
+| HERU PURNOMO | 0 | false |
 | BOWO SURYONO | 1 | true |
 | IVAN CAHYO SUSANTO | 1 | false |
-| Hengki Iriawan | 1 | false |
+| Hengki Iriawan | 0 | false |
 | CAHYAN SANJANG MAHENDRA | 1 | false |
 | VIKTOR MONTANA TAMPUBOLON | 1 | false |
 | BIMA AL KARIM | 1 | false |
