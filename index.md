@@ -1,44 +1,44 @@
-| NAMA | EXP | SAT | KAMIS1 |
-| --- | --- | --- | --- |
-| YUDHA VIRMA ALLASCA | -1 | false | 10:11 - |
-| JOHAN ARI PITUTULU | 1 | false | Login Failed |
-| WARIMAN | 1 | false | Login Failed |
-| ARI SUPRIH BUDI KUNCORO | 1 | false | Login Failed |
-| PITHUT GUNAWAN | 1 | false | Login Failed |
-| EKO YUDISTIRO RONY ASHARI | 1 | false | Login Failed |
-| KOEN ROHAYUDI | 1 | false | Login Failed |
-| IMRON ZAMANI | 1 | false | Login Failed |
-| DULKAMIT | 1 | true | Login Failed |
-| MUKLISIN | 1 | false | 06:47 - |
-| SUNARDI | 1 | false | Login Failed |
-| SUGENG RIYANTO | 1 | false | Login Failed |
-| AHMAD ZAINUDDIN | 1 | true | Login Failed |
-| IDA JATIYANA | 1 | false | Login Failed |
-| MARGARETHA RISTIANI M. | 1 | false | Login Failed |
-| KOKOK WAHYONO | 1 | false | Login Failed |
-| SYELA RANSY TONAPA | 1 | false | Login Failed |
-| MAHFUT WAWAN PRASETYO | 1 | false | Login Failed |
-| KOKO ARDIANTO | 1 | false | Login Failed |
-| RASMADI | 1 | false | Login Failed |
-| SURADI | 1 | false | Login Failed |
-| HARIS BUDIARTO | 1 | false | Login Failed |
-| DENI SETIADI PRATAMA EKA PUTRA | 0 | false | Exp |
-| MISBAKHUL MUNIR | 1 | false | Login Failed |
-| SUDARSONO | 1 | false | Login Failed |
-| WAHYU BUDIANTO | 1 | false | Login Failed |
-| WIDASTAMA ANGGA PERMANA | 1 | false | Login Failed |
-| HERU PURNOMO | 1 | false | Login Failed |
-| BOWO SURYONO | 1 | true | Login Failed |
-| IVAN CAHYO SUSANTO | 1 | false | Login Failed |
-| Hengki Iriawan | 1 | false | Login Failed |
-| CAHYAN SANJANG MAHENDRA | 1 | false | Login Failed |
-| VIKTOR MONTANA TAMPUBOLON | 1 | false | Login Failed |
-| BIMA AL KARIM | 1 | false | Login Failed |
-| GAGUK KISWANTO | 1 | true | 10:28 - |
-| RUKUN SANTOSO | 1 | true | Login Failed |
-| ENNY HANDHAYANY Y.S | 1 | false | Login Failed |
-| SUPIAN INDRA BUDIANTO | 1 | false | Login Failed |
-| ZANUAR SETIA BUDI | 1 | true | Login Failed |
-| SUGIYANTO | 1 | false | Login Failed |
-| YUDIONO | 1 | false | Login Failed |
-| IMAM SUYUTI | 1 | false | Login Failed |
+| NAMA | EXP | SAT |
+| --- | --- | --- |
+| YUDHA VIRMA ALLASCA | -1 | false |
+| JOHAN ARI PITUTULU | 1 | false |
+| WARIMAN | 1 | false |
+| ARI SUPRIH BUDI KUNCORO | 1 | false |
+| PITHUT GUNAWAN | 1 | false |
+| EKO YUDISTIRO RONY ASHARI | 1 | false |
+| KOEN ROHAYUDI | 1 | false |
+| IMRON ZAMANI | 1 | false |
+| DULKAMIT | 1 | true |
+| MUKLISIN | 1 | false |
+| SUNARDI | 1 | false |
+| SUGENG RIYANTO | 1 | false |
+| AHMAD ZAINUDDIN | 1 | true |
+| IDA JATIYANA | 1 | false |
+| MARGARETHA RISTIANI M. | 1 | false |
+| KOKOK WAHYONO | 1 | false |
+| SYELA RANSY TONAPA | 1 | false |
+| MAHFUT WAWAN PRASETYO | 1 | false |
+| KOKO ARDIANTO | 1 | false |
+| RASMADI | 1 | false |
+| SURADI | 1 | false |
+| HARIS BUDIARTO | 1 | false |
+| DENI SETIADI PRATAMA EKA PUTRA | 0 | false |
+| MISBAKHUL MUNIR | 1 | false |
+| SUDARSONO | 1 | false |
+| WAHYU BUDIANTO | 1 | false |
+| WIDASTAMA ANGGA PERMANA | 1 | false |
+| HERU PURNOMO | 1 | false |
+| BOWO SURYONO | 1 | true |
+| IVAN CAHYO SUSANTO | 1 | false |
+| Hengki Iriawan | 1 | false |
+| CAHYAN SANJANG MAHENDRA | 1 | false |
+| VIKTOR MONTANA TAMPUBOLON | 1 | false |
+| BIMA AL KARIM | 1 | false |
+| GAGUK KISWANTO | 1 | true |
+| RUKUN SANTOSO | 1 | true |
+| ENNY HANDHAYANY Y.S | 1 | false |
+| SUPIAN INDRA BUDIANTO | 1 | false |
+| ZANUAR SETIA BUDI | 1 | true |
+| SUGIYANTO | 1 | false |
+| YUDIONO | 1 | false |
+| IMAM SUYUTI | 1 | false |
