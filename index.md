@@ -1,44 +1,44 @@
 | NAMA | EXP | SAT | SENIN2 | SELASA3 | RABU4 |
 | --- | --- | --- | --- | --- | --- |
-| YUDHA VIRMA ALLASCA | -1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| JOHAN ARI PITUTULU | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| WARIMAN | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| ARI SUPRIH BUDI KUNCORO | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| PITHUT GUNAWAN | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| EKO YUDISTIRO RONY ASHARI | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| KOEN ROHAYUDI | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| IMRON ZAMANI | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| DULKAMIT | 1 | true | 00:47 18:09 | 04:23 18:00 |  |
-| MUKLISIN | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
+| YUDHA VIRMA ALLASCA | -1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| JOHAN ARI PITUTULU | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| WARIMAN | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| ARI SUPRIH BUDI KUNCORO | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| PITHUT GUNAWAN | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| EKO YUDISTIRO RONY ASHARI | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| KOEN ROHAYUDI | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| IMRON ZAMANI | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| DULKAMIT | 1 | true | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| MUKLISIN | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
 | SUNARDI | 0 | false | Exp | Exp | Exp |
-| SUGENG RIYANTO | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| AHMAD ZAINUDDIN | 1 | true | 00:47 18:09 | 04:23 18:00 |  |
-| IDA JATIYANA | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| MARGARETHA RISTIANI M. | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| KOKOK WAHYONO | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| SYELA RANSY TONAPA | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| MAHFUT WAWAN PRASETYO | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| KOKO ARDIANTO | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| RASMADI | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| SURADI | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| HARIS BUDIARTO | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
+| SUGENG RIYANTO | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| AHMAD ZAINUDDIN | 1 | true | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| IDA JATIYANA | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| MARGARETHA RISTIANI M. | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| KOKOK WAHYONO | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| SYELA RANSY TONAPA | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| MAHFUT WAWAN PRASETYO | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| KOKO ARDIANTO | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| RASMADI | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| SURADI | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| HARIS BUDIARTO | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
 | DENI SETIADI PRATAMA EKA PUTRA | 0 | false | Exp | Exp | Exp |
-| MISBAKHUL MUNIR | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| SUDARSONO | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| WAHYU BUDIANTO | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| WIDASTAMA ANGGA PERMANA | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
+| MISBAKHUL MUNIR | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| SUDARSONO | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| WAHYU BUDIANTO | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| WIDASTAMA ANGGA PERMANA | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
 | HERU PURNOMO | 0 | false | Exp | Exp | Exp |
-| BOWO SURYONO | 1 | true | 00:47 18:09 | 04:23 18:00 |  |
-| IVAN CAHYO SUSANTO | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
+| BOWO SURYONO | 1 | true | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| IVAN CAHYO SUSANTO | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
 |  | 0 | false | Exp | Exp | Exp |
-| CAHYAN SANJANG MAHENDRA | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| VIKTOR MONTANA TAMPUBOLON | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| BIMA AL KARIM | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| GAGUK KISWANTO | 1 | true | 00:47 18:09 | 04:23 18:00 |  |
-| RUKUN SANTOSO | 1 | true | 00:47 18:09 | 04:23 18:00 |  |
-| ENNY HANDHAYANY Y.S | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| SUPIAN INDRA BUDIANTO | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| ZANUAR SETIA BUDI | 1 | true | 00:47 18:09 | 04:23 18:00 |  |
-| SUGIYANTO | 1 | false | 00:47 15:23 | 04:23 18:00 |  |
-| YUDIONO | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
-| IMAM SUYUTI | 1 | false | 00:47 18:09 | 04:23 18:00 |  |
+| CAHYAN SANJANG MAHENDRA | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| VIKTOR MONTANA TAMPUBOLON | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| BIMA AL KARIM | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| GAGUK KISWANTO | 1 | true | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| RUKUN SANTOSO | 1 | true | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| ENNY HANDHAYANY Y.S | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| SUPIAN INDRA BUDIANTO | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| ZANUAR SETIA BUDI | 1 | true | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| SUGIYANTO | 1 | false | 00:47 15:23 | 04:23 18:00 | 04:11 - |
+| YUDIONO | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
+| IMAM SUYUTI | 1 | false | 00:47 18:09 | 04:23 18:00 | 04:11 - |
