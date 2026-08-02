@@ -1,46 +1,46 @@
-| NAMA | EXP | SAT | SABTU1 |
-| --- | --- | --- | --- |
-| YUDHA VIRMA ALLASCA | -1 | false | Skip |
-| JOHAN ARI PITUTULU | 1 | false | Skip |
-| WARIMAN | 1 | false | Skip |
-| ARI SUPRIH BUDI KUNCORO | 1 | false | Skip |
-| PITHUT GUNAWAN | 1 | false | Skip |
-| EKO YUDISTIRO RONY ASHARI | 1 | false | Skip |
-| KOEN ROHAYUDI | 1 | false | Skip |
-| IMRON ZAMANI | 1 | false | Skip |
-| DULKAMIT | 1 | true | 04:15 18:00 |
-| MUKLISIN | 1 | false | Skip |
-| SUNARDI | 0 | false | Exp |
-| SUGENG RIYANTO | 1 | true | 04:15 18:00 |
-| AHMAD ZAINUDDIN | 1 | true | 04:15 18:00 |
-| IDA JATIYANA | 1 | false | Skip |
-| MARGARETHA RISTIANI M. | 1 | false | Skip |
-| KOKOK WAHYONO | 1 | false | Skip |
-| SYELA RANSY TONAPA | 1 | false | Skip |
-| MAHFUT WAWAN PRASETYO | 1 | false | Skip |
-| KOKO ARDIANTO | 1 | false | Skip |
-| RASMADI | 1 | false | Skip |
-| SURADI | 1 | false | Skip |
-| HARIS BUDIARTO | 1 | false | Skip |
-| DENI SETIADI PRATAMA EKA PUTRA | 0 | false | Exp |
-| MISBAKHUL MUNIR | 1 | false | Skip |
-| SUDARSONO | 1 | false | Skip |
-| WAHYU BUDIANTO | 1 | false | Skip |
-| WIDASTAMA ANGGA PERMANA | 1 | false | Skip |
-| HERU PURNOMO | 0 | false | Exp |
-| BOWO SURYONO | 1 | true | 04:15 18:00 |
-| IVAN CAHYO SUSANTO | 1 | false | Skip |
-|  | 0 | false | Exp |
-| CAHYAN SANJANG MAHENDRA | 1 | false | Skip |
-| VIKTOR MONTANA TAMPUBOLON | 1 | false | Skip |
-| BIMA AL KARIM | 1 | false | Skip |
-| GAGUK KISWANTO | 1 | true | 04:15 18:00 |
-| RUKUN SANTOSO | 1 | true | 04:15 18:00 |
-| ENNY HANDHAYANY Y.S | 1 | false | Skip |
-| SUPIAN INDRA BUDIANTO | 1 | false | Skip |
-| ZANUAR SETIA BUDI | 1 | true | 04:15 18:00 |
-| SUGIYANTO | 1 | false | Skip |
-| YUDIONO | 1 | false | Skip |
-| IMAM SUYUTI | 1 | false | Skip |
-| BENI ANGGORO | 1 | true | 04:15 18:00 |
-| NYONO | 1 | false | Skip |
+| NAMA | EXP | SAT | SABTU1 | SENIN3 |
+| --- | --- | --- | --- | --- |
+| YUDHA VIRMA ALLASCA | -1 | false | Skip | 04:01 - |
+| JOHAN ARI PITUTULU | 1 | false | Skip | 04:01 - |
+| WARIMAN | 1 | false | Skip | 04:01 - |
+| ARI SUPRIH BUDI KUNCORO | 1 | false | Skip | 04:01 - |
+| PITHUT GUNAWAN | 1 | false | Skip | 04:01 - |
+| EKO YUDISTIRO RONY ASHARI | 1 | false | Skip | 04:01 - |
+| KOEN ROHAYUDI | 1 | false | Skip | 04:01 - |
+| IMRON ZAMANI | 1 | false | Skip | 04:01 - |
+| DULKAMIT | 1 | true | 04:15 18:00 | 04:01 - |
+| MUKLISIN | 1 | false | Skip | 04:01 - |
+| SUNARDI | 0 | false | Exp | Exp |
+| SUGENG RIYANTO | 1 | true | 04:15 18:00 | 04:01 - |
+| AHMAD ZAINUDDIN | 1 | true | 04:15 18:00 | 04:01 - |
+| IDA JATIYANA | 1 | false | Skip | 04:01 - |
+| MARGARETHA RISTIANI M. | 1 | false | Skip | 04:01 - |
+| KOKOK WAHYONO | 1 | false | Skip | 04:01 - |
+| SYELA RANSY TONAPA | 1 | false | Skip | 04:01 - |
+| MAHFUT WAWAN PRASETYO | 1 | false | Skip | 04:01 - |
+| KOKO ARDIANTO | 1 | false | Skip | 04:01 - |
+| RASMADI | 1 | false | Skip | 04:01 - |
+| SURADI | 1 | false | Skip | 04:01 - |
+| HARIS BUDIARTO | 1 | false | Skip | 04:01 - |
+| DENI SETIADI PRATAMA EKA PUTRA | 0 | false | Exp | Exp |
+| MISBAKHUL MUNIR | 1 | false | Skip | 04:01 - |
+| SUDARSONO | 1 | false | Skip | 04:01 - |
+| WAHYU BUDIANTO | 1 | false | Skip | 04:01 - |
+| WIDASTAMA ANGGA PERMANA | 1 | false | Skip | 04:01 - |
+| HERU PURNOMO | 0 | false | Exp | Exp |
+| BOWO SURYONO | 1 | true | 04:15 18:00 | 04:01 - |
+| IVAN CAHYO SUSANTO | 1 | false | Skip | 04:01 - |
+|  | 0 | false | Exp | Exp |
+| CAHYAN SANJANG MAHENDRA | 1 | false | Skip | 04:01 - |
+| VIKTOR MONTANA TAMPUBOLON | 1 | false | Skip | 04:01 - |
+| BIMA AL KARIM | 1 | false | Skip | 04:01 - |
+| GAGUK KISWANTO | 1 | true | 04:15 18:00 | 04:01 - |
+| RUKUN SANTOSO | 1 | true | 04:15 18:00 | 04:01 - |
+| ENNY HANDHAYANY Y.S | 1 | false | Skip | 04:01 - |
+| SUPIAN INDRA BUDIANTO | 1 | false | Skip | 04:01 - |
+| ZANUAR SETIA BUDI | 1 | true | 04:15 18:00 | 04:01 - |
+| SUGIYANTO | 1 | false | Skip | 04:01 - |
+| YUDIONO | 1 | false | Skip | 04:01 - |
+| IMAM SUYUTI | 1 | false | Skip | 04:01 - |
+| BENI ANGGORO | 1 | true | 04:15 18:00 | 04:01 - |
+| NYONO | 1 | false | Skip | 04:01 - |
